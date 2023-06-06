@@ -1,1 +1,1 @@
-"This file is mandatory projects" 
+"This file is mandatory in projects" 
